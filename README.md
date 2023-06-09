@@ -9,7 +9,7 @@
   <li> SQL (MySQL & SQL Server) </li>
 </ol>
 
-<img src="pc.png" w="64" h="64" >
+<img src="pc.png" width="64px" heigth="64px" >
 
 
-<img src="chair.png" w="64" h="64" >
+<img src="chair.png" width="64px" heigth="64px" >
