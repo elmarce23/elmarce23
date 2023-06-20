@@ -4,7 +4,14 @@
 
 <img src="banner-github.png" >
 
-<p> Hi! I'm Andres Soberanes Marcelo 👩‍💻 </br>  A Junior Dev that likes Mobile and Web Development </br> My Skills HTML / CSS / PYTHON / NODEJS / BOOTSRAP </p>
+<p> Hi! I'm Andres Soberanes Marcelo 👩‍💻 </br>  A Junior Dev that likes Mobile and Web Development </br> My Skills ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)
+![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=mysql) </p>
+### Also
+![Node](https://img.shields.io/badge/-Node-000000?style=flat&logo=node.js) <br />
+![React](https://img.shields.io/badge/-React-000000?style=flat-square&logo=react)
 
 <hr>
 
