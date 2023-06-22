@@ -13,7 +13,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=mysql) 
 ![Node](https://img.shields.io/badge/-Node-000000?style=flat&logo=node.js)
-![React](https://img.shields.io/badge/-React-000000?style=flat-square&logo=react)
+<!--![React](https://img.shields.io/badge/-React-000000?style=flat-square&logo=react)-->
 
 <hr>
 
