@@ -19,8 +19,8 @@
 
 <p> Actually I'm Technical Support Enginner, my main tasks are maintenance of computer equipment and networks, as well as attention to customer problems or questions. </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elmarce23&layout=compact))](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elmarce23&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=elmarce23&show_icons=true&count_private=true) 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=elmarce23&show_icons=true&count_private=true&border_color) 
 
 ![Counter](https://komarev.com/ghpvc/?username=elmarce23)
